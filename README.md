@@ -1,6 +1,6 @@
 # 📊 RAG-Based Financial Document Assistant
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg.svg)]([[share.streamlit.io](https://rag-based-financial-document-assistant-neae5oyytdnjyrx7casacl.streamlit.app/)])
+![Streamlit](https://img.shields.io/badge/Streamlit-App-ff4b4b)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![LangChain](https://img.shields.io/badge/Powered%20by-LangChain-green)](https://python.langchain.com/)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Inference-HuggingFace-orange)](https://huggingface.co/)
@@ -56,10 +56,10 @@ The system follows a modern **Agentic workflow** using LangChain Expression Lang
 ## 📦 Installation & Setup
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/[YOUR_USERNAME]/RAG-Financial-Assistant.git
-   cd RAG-Financial-Assistant
-   ```
+```bash
+git clone https://github.com/[YOUR_USERNAME]/RAG-Financial-Assistant.git
+cd RAG-Financial-Assistant
+```
 2. **Install Dependencies**
 ```Bash
 pip install -r requirements.txt
@@ -72,7 +72,7 @@ Generate a 'Read' token in Settings.
 streamlit run app.py
 ```
 
-📈 Future Roadmap
+## 📈 Future Roadmap
 
 Add support for multiple PDF uploads (Knowledge Graph).
 
