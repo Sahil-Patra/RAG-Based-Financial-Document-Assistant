@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit/OS junk
+.DS_Store
+.streamlit/
+temp_uploaded.pdf
+
+# Environment variables (if you ever use them)
+.env
