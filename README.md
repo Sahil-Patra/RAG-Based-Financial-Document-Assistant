@@ -1,6 +1,6 @@
 # 📊 RAG-Based Financial Document Assistant
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg.svg)]([share.streamlit.io])
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg.svg)]([[share.streamlit.io](https://rag-based-financial-document-assistant-neae5oyytdnjyrx7casacl.streamlit.app/)])
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![LangChain](https://img.shields.io/badge/Powered%20by-LangChain-green)](https://python.langchain.com/)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Inference-HuggingFace-orange)](https://huggingface.co/)
@@ -18,7 +18,7 @@ A key feature of this implementation is its Cloud-Native Design. I engineered th
 ---
 
 ## 🚀 Live Demo
-**Check out the live application here:** [👉 [LINK TO YOUR STREAMLIT CLOUD APP]]
+**Check out the live application here:** [👉 [[link](https://rag-based-financial-document-assistant-neae5oyytdnjyrx7casacl.streamlit.app/)]]
 
 ---
 
