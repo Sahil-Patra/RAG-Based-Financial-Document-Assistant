@@ -14,4 +14,4 @@ jobs:
     steps:
       - name: Wake up Streamlit App
         run: |
-          curl https://rag-based-financial-document-assistant-neae5oyytdnjyrx7casacl.streamlit.app/
+          curl -I https://rag-based-financial-document-assistant-neae5oyytdnjyrx7casacl.streamlit.app/
