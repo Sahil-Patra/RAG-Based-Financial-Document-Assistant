@@ -14,10 +14,12 @@ They lack access to the specific, non-public context of the uploaded file.
 They have a limited "context window," meaning they "forget" earlier parts of a long report.
 
 ### 🛠️ The Solution
-This application implements a state-of-the-art RAG pipeline that converts unstructured PDF data into a searchable vector database. By utilizing Semantic Search, the system retrieves only the most relevant financial data points and passes them to the LLM (Zephyr-7B) for synthesis.
+This application implements a state-of-the-art RAG pipeline that converts unstructured PDF data into a searchable vector database. By utilizing Semantic Search, the system retrieves only the most relevant financial data points and passes them to the LLM (Zephyr-7B) for synthesis. 
+A key 
 
-### ⚡ Technical Achievement: Resource-Optimized Architecture
-A key feature of this implementation is its Cloud-Native Design. I engineered the system to offload heavy model inference to Serverless GPU Endpoints via the Hugging Face Inference API. This ensures that the application remains high-performing and scalable without requiring high-end local hardware, making it a cost-effective solution for real-world enterprise deployments.
+### ⚡ Technical Achievement: Resourc-Optimized Architecture
+A key feature of this implementation is its Cloud-Native Design. I engineered the system to offload heavy model inference to Serverless GPU Endpoints via the Hugging Face Inference API. This ensures that the application remain high-performing and scalable without requiring high-end local hardware, making it a cost-effective solution for real-world enterprise deployments. 
+
 ---
 
 ## 🚀 Live Demo
